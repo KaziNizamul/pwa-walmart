@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1609998930081,
+  "timestamp": 1610000595057,
   "index": "https://KaziNizamul.github.io/pwa-walmart/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://KaziNizamul.github.io/pwa-walmart/favicon.ico",
         "https://KaziNizamul.github.io/pwa-walmart/index.html",
-        "https://KaziNizamul.github.io/pwa-walmart/main.86649e41d13755c5dc3b.js",
+        "https://KaziNizamul.github.io/pwa-walmart/main.0437ab1d8030a0873a11.js",
         "https://KaziNizamul.github.io/pwa-walmart/manifest.webmanifest",
         "https://KaziNizamul.github.io/pwa-walmart/polyfills.1be5ab59438528e44e4d.js",
         "https://KaziNizamul.github.io/pwa-walmart/runtime.acf0dec4155e77772545.js",
@@ -56,8 +56,8 @@
     "https://KaziNizamul.github.io/pwa-walmart/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://KaziNizamul.github.io/pwa-walmart/assets/images.png": "4b590340df8b09aa061ac2110b036b292c1f543c",
     "https://KaziNizamul.github.io/pwa-walmart/favicon.ico": "d8c801750ce7577110d8196372c64d7e08aae6fb",
-    "https://KaziNizamul.github.io/pwa-walmart/index.html": "5e9e402aac58cf3d21926b0e80adabc2e8567b6d",
-    "https://KaziNizamul.github.io/pwa-walmart/main.86649e41d13755c5dc3b.js": "f1d71730de9c665f55ab6adf89be4ace0bdab116",
+    "https://KaziNizamul.github.io/pwa-walmart/index.html": "a32cddc96d4d4140a9ab08f406ea1863d5d05981",
+    "https://KaziNizamul.github.io/pwa-walmart/main.0437ab1d8030a0873a11.js": "d4708780341da2118c52989d7029ee001f290f12",
     "https://KaziNizamul.github.io/pwa-walmart/manifest.webmanifest": "5ee190ebb68294656877fd0e3ceae36acdf7f5bf",
     "https://KaziNizamul.github.io/pwa-walmart/polyfills.1be5ab59438528e44e4d.js": "0a74f1856d47591acee752511c51f008b0a5b003",
     "https://KaziNizamul.github.io/pwa-walmart/runtime.acf0dec4155e77772545.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
