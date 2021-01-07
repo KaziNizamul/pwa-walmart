@@ -1,0 +1,84 @@
+{
+  "configVersion": 1,
+  "timestamp": 1609996691129,
+  "index": "https://KaziNizamul.github.io/pwa-walmart/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://KaziNizamul.github.io/pwa-walmart/favicon.ico",
+        "https://KaziNizamul.github.io/pwa-walmart/index.html",
+        "https://KaziNizamul.github.io/pwa-walmart/main.86649e41d13755c5dc3b.js",
+        "https://KaziNizamul.github.io/pwa-walmart/manifest.webmanifest",
+        "https://KaziNizamul.github.io/pwa-walmart/polyfills.1be5ab59438528e44e4d.js",
+        "https://KaziNizamul.github.io/pwa-walmart/runtime.acf0dec4155e77772545.js",
+        "https://KaziNizamul.github.io/pwa-walmart/styles.81ab6286dbc6aa3a6b41.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://KaziNizamul.github.io/pwa-walmart/assets/favicon.img.png",
+        "https://KaziNizamul.github.io/pwa-walmart/assets/icons/icon-128x128.png",
+        "https://KaziNizamul.github.io/pwa-walmart/assets/icons/icon-144x144.png",
+        "https://KaziNizamul.github.io/pwa-walmart/assets/icons/icon-152x152.png",
+        "https://KaziNizamul.github.io/pwa-walmart/assets/icons/icon-192x192.png",
+        "https://KaziNizamul.github.io/pwa-walmart/assets/icons/icon-384x384.png",
+        "https://KaziNizamul.github.io/pwa-walmart/assets/icons/icon-512x512.png",
+        "https://KaziNizamul.github.io/pwa-walmart/assets/icons/icon-72x72.png",
+        "https://KaziNizamul.github.io/pwa-walmart/assets/icons/icon-96x96.png",
+        "https://KaziNizamul.github.io/pwa-walmart/assets/images.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://KaziNizamul.github.io/pwa-walmart/assets/favicon.img.png": "d8c801750ce7577110d8196372c64d7e08aae6fb",
+    "https://KaziNizamul.github.io/pwa-walmart/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://KaziNizamul.github.io/pwa-walmart/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://KaziNizamul.github.io/pwa-walmart/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://KaziNizamul.github.io/pwa-walmart/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://KaziNizamul.github.io/pwa-walmart/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://KaziNizamul.github.io/pwa-walmart/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://KaziNizamul.github.io/pwa-walmart/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://KaziNizamul.github.io/pwa-walmart/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://KaziNizamul.github.io/pwa-walmart/assets/images.png": "4b590340df8b09aa061ac2110b036b292c1f543c",
+    "https://KaziNizamul.github.io/pwa-walmart/favicon.ico": "d8c801750ce7577110d8196372c64d7e08aae6fb",
+    "https://KaziNizamul.github.io/pwa-walmart/index.html": "5e9e402aac58cf3d21926b0e80adabc2e8567b6d",
+    "https://KaziNizamul.github.io/pwa-walmart/main.86649e41d13755c5dc3b.js": "f1d71730de9c665f55ab6adf89be4ace0bdab116",
+    "https://KaziNizamul.github.io/pwa-walmart/manifest.webmanifest": "5ee190ebb68294656877fd0e3ceae36acdf7f5bf",
+    "https://KaziNizamul.github.io/pwa-walmart/polyfills.1be5ab59438528e44e4d.js": "0a74f1856d47591acee752511c51f008b0a5b003",
+    "https://KaziNizamul.github.io/pwa-walmart/runtime.acf0dec4155e77772545.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://KaziNizamul.github.io/pwa-walmart/styles.81ab6286dbc6aa3a6b41.css": "793e007a99434f8533ed0803507e97c1dc6f9dfd"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
